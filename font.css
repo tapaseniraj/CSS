@@ -1,0 +1,16 @@
+h2{
+    text-align: center;  
+    border: solid;
+    font-size: 50px;
+    font-family: fantasy;
+  }
+  h3{
+      text-align: left;
+  }
+  p{
+      text-align: justify;
+      font-weight: Bold;
+      font-size: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+
+  }
